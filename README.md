@@ -50,5 +50,5 @@ This project helps you manage daily tasks efficiently — add, mark as complete,
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/harshmuruskar/todo-list-app.git
 
